@@ -3,8 +3,6 @@ package com.slava.someblog.controllers;
 import com.slava.someblog.models.Articles;
 import com.slava.someblog.repo.ArticlesRepository;
 import lombok.AllArgsConstructor;
-import lombok.NoArgsConstructor;
-import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.*;
